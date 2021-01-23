@@ -1,5 +1,5 @@
 # Pharmacy_Manager<br />
-A program to pharmacies mangement<br />
+A program to pharmacies management<br />
 To use the program you have to:<br />
 1-Install SQL Server & SQL Server Management Studio<br />
 2-Attach Database to SQL Server<br />
